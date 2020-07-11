@@ -1,2 +1,2 @@
-# Follow me on [Twitter](https://twitter.com/randerus3)
+# Follow me on [Twitter](https://twitter.com/randerus93)
 Hello nerds!
