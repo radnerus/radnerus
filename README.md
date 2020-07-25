@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Surendar Vinayagamoorthy
-#### Senior Software Engineer, DMI
+### Hi there 👋, I am Surendar Vinayagamoorthy
+###### Senior Software Engineer, DMI
 ![Senior Software Engineer, DMI](https://raw.githubusercontent.com/radnerus/radnerus/master/Suren_Profile.png)
 
 Ever since my childhood, I have been more passionate about riddles and problems. This passion drove me towards Mathematics, Engineering, and now IT. The day-to-day tasks of a Software Engineer involve problem solving and creativity😊. The solutions keep me motivated and problems and solutions are interdependent. 
@@ -8,7 +8,7 @@ Repetitive problem-solution is always annoying, and automation is a high motivat
 
 Skills: React Native, React JS, Angular, Node JS, Java, Python
 
-🔭 I’m currently working on Precise Typer  
+🔭 I’m currently working on Precise Typer (Typing Game using React Native)  
 🌱 I’m currently learning React Native  
 💬 Ask me about Javascript  
 📫 How to reach me: radnerus@protomail.com  
