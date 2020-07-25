@@ -8,7 +8,7 @@ Repetitive problem-solution is always annoying, and automation is a high motivat
 
 Skills: React Native, React JS, Angular, Node JS, Java, Python
 
-🔭 I’m currently working on Precise Typer 
+🔭 I’m currently working on Precise Typer  
 🌱 I’m currently learning React Native 
 💬 Ask me about Javascript 
 📫 How to reach me: radnerus@protomail.com 
