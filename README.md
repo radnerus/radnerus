@@ -6,7 +6,7 @@ Ever since my childhood, I have been more passionate about riddles and problems.
 
 Repetitive problem-solution is always annoying, and automation is a high motivator. I always believe to work hard for a day, if it helps me reducing my efforts in more than one instance future. I am known for working hard to make my things comfortable.
 
-Skills: 
+#### Skills:
 * Javascript
   * React Native, React JS, Angular & Node JS
 * Java
