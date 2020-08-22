@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/radnerus93?label=Connect%20to%20Me&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/radnerus93?label=Follow%20Surendar%20Vinayagamoorthy&style=social)
 
 ### Hi there 👋, I am Surendar Vinayagamoorthy
 ###### Senior Software Engineer, Navis
