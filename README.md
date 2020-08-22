@@ -1,5 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/radnerus?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/radnerus93?color=green&logo=twitter&style=for-the-badge)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/radnerus)
 ![Website](https://img.shields.io/website?label=surendar.dev&style=for-the-badge&url=https%3A%2F%2Fsurendar.dev)
 
 ### Hi there 👋, I am Surendar Vinayagamoorthy
