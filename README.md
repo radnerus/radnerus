@@ -25,6 +25,11 @@ Repetitive problem-solution is always annoying, and automation is a high motivat
 
 #### Recent Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [NaN - It's Not A Number🙄](https://dev.to/radnerus/nan-it-s-not-a-number-f3a)
+- [TypeScript Functional Decorators w/ usecases](https://dev.to/radnerus/typescript-functional-decorators-w-usecases-1a8g)
+- [Twitter API is 🔥 - Followers Count](https://dev.to/radnerus/twitter-api-is-followers-count-mda)
+- [Spread ... The Love In JavaScript ❣️](https://dev.to/radnerus/spread-the-love-in-javascript-36l5)
+- [DENO ANAGRAM of NODE?](https://dev.to/radnerus/deno-a-n-a-g-r-a-m-of-node-bac)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect with me:
