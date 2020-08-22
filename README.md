@@ -23,7 +23,7 @@ Repetitive problem-solution is always annoying, and automation is a high motivat
 🌱 I’m currently learning React Native  
 💬 Ask me about Javascript  
 
-#### Recent Blogs:
+#### Recent Blogs ✍🏽:
 <!-- BLOG-POST-LIST:START -->
 - [NaN - It's Not A Number🙄](https://dev.to/radnerus/nan-it-s-not-a-number-f3a)
 - [TypeScript Functional Decorators w/ usecases](https://dev.to/radnerus/typescript-functional-decorators-w-usecases-1a8g)
