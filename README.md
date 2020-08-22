@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/radnerus?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/radnerus93?color=green&logo=twitter&style=for-the-badge)
 ![Website](https://img.shields.io/website?label=surendar.dev&style=for-the-badge&url=https%3A%2F%2Fsurendar.dev)
 
