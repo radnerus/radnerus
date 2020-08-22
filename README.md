@@ -1,3 +1,5 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/radnerus93?label=Connect%20to%20Me&style=for-the-badge)
+
 ### Hi there 👋, I am Surendar Vinayagamoorthy
 ###### Senior Software Engineer, Navis
 ![Senior Software Engineer, DMI](https://raw.githubusercontent.com/radnerus/radnerus/master/Suren_Profile.png)
